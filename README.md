@@ -14,7 +14,7 @@ A sleek, responsive dashboard built with Next.js, Redux Toolkit, TypeScript, and
 ## Installation
 1. **Clone the Repo**:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Michael-Anwar/dash>
    cd eyego-dashboard
    ```
 2. **Install Dependencies**:
@@ -32,6 +32,5 @@ A sleek, responsive dashboard built with Next.js, Redux Toolkit, TypeScript, and
 - Redux Toolkit
 - TypeScript
 - Tailwind CSS
-```
 
 
